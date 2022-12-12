@@ -15,12 +15,11 @@ Screenshots:
 
 2. When the user writes down the information for the first time for subscription, the website redirects the user to this succes page.
 
-![image](https://user-images.githubusercontent.com/97048231/207150771-74732a5a-c2fd-49f6-a9ad-0fddf710f978.png)
-
+![alt text](https://github.com/anabaronam/NewsLetter-Signup/blob/main/succesPage.jpg)
 
 3. When the user is already subscribed, they'll get redirected to a Failure page saying they are already susbcribed, and a button than carries them to the 
 homepage again
 
-![image](https://user-images.githubusercontent.com/97048231/207150904-68a5c001-aa52-4317-9969-1379e3c9f558.png)
+![alt text](https://github.com/anabaronam/NewsLetter-Signup/blob/main/FailurePage.jpg)
 
 
