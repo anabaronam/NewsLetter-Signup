@@ -11,7 +11,7 @@ Screenshots:
 
 1. The website's homepage looks like this with three different entries. 
 
-![alt text](https://github.com/anabaronam/main/mainPage.jpg)
+![alt text](https://github.com/anabaronam/NewsLetter-Signup/main/blob/mainPage.jpg)
 
 2. When the user writes down the information for the first time for subscription, the website redirects the user to this succes page.
 
